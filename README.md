@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @davidcastillo2005
-- 👀 In this moment. I’m interested in graphic engine and game development.
-- 🌱 I’m currently learning C# as a complete beginner, I had experience with Unity but I´m currently using Godot Engine for my personal projects.
 <!---- 
 - 💞️ I’m looking to ...
 - 📫 How to reach me ...
